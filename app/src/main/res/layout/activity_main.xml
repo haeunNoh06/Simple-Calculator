@@ -63,6 +63,15 @@
         android:textSize="@dimen/text_size_medium"
         />
     <Button
+        android:id="@+id/btn_mod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_small"
+        android:padding="@dimen/padding_small"
+        android:text="@string/btn_mod"
+        android:textSize="@dimen/text_size_medium"
+        />
+    <Button
         android:id="@+id/btn_init"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
